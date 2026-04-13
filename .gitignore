@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+.env
+*.sqlite3
+*.db
+*.log
+*.egg-info/
+*.ipynb_checkpoints/
+.vscode/
